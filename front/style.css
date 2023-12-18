@@ -1,0 +1,18 @@
+#main-block {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+#menu-block {
+    min-width: 20%;
+
+}
+
+#input-block {
+
+}
+
+#btn-block {
+
+}
